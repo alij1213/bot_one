@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Group Management Bot Suite",
+  "description": "Enterprise-grade, modular Telegram Group Management Bot built with Python, aiogram 3.x, SQLite/PostgreSQL, and Redis. Features anti-spam, visual settings panel, moderation, localization, and a web simulator/configuration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
